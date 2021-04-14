@@ -1,0 +1,16 @@
+14-03-2021 17:03:48 INFO  FileSuffixApp:22 - Application launched
+14-03-2021 17:03:48 DEBUG FileSuffixApp:23 - Log4j appender configuration was read successfully
+14-03-2021 17:03:49 INFO  FileSuffixApp:42 - The config.json was successfully read
+14-03-2021 17:03:49 INFO  FileSuffixApp:56 - File not exists cannot rename
+14-03-2021 17:03:49 INFO  FileSuffixApp:56 - File not exists cannot rename
+14-03-2021 17:03:49 INFO  FileSuffixApp:56 - File not exists cannot rename
+14-03-2021 17:03:49 INFO  FileSuffixApp:67 - Program completed
+
+14-04-2021 17:04:23 INFO  FileSuffixApp:22 - Application launched
+14-04-2021 17:04:23 DEBUG FileSuffixApp:23 - Log4j appender configuration was read successfully
+14-04-2021 17:04:24 INFO  FileSuffixApp:42 - The config.json was successfully read
+14-04-2021 17:04:24 INFO  FileSuffixApp:64 - File renamed successfully
+14-04-2021 17:04:24 INFO  FileSuffixApp:64 - File renamed successfully
+14-04-2021 17:04:24 INFO  FileSuffixApp:64 - File renamed successfully
+14-04-2021 17:04:24 INFO  FileSuffixApp:67 - Program completed
+

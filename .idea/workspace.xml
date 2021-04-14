@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Java:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37fab974-1a6d-40b2-8da1-5906ad69413c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mjmfloUtSRsDo0I53Xxr1K3WCS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyProject" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\src\main\resources" />
+      <recent name="D:\Java\out" />
+      <recent name="D:\Java\out\artifacts\Rename_jar\META-INF" />
+      <recent name="D:\Java\out\artifacts\Rename_jar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.Java-1.1.0.jar">
+    <configuration name="FileSuffixApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FileSuffixApp" />
+      <module name="Java" />
+      <option name="PROGRAM_PARAMETERS" value="D:\Java\src\main\resources\config.json " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Java-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Java-1.1.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Java-1.1.0.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Java-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Java-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Java.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Java.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FileSuffixApp" />
+      <item itemvalue="JAR Application.Java-1.0-SNAPSHOT.jar" />
+      <item itemvalue="JAR Application.Java-jar-with-dependencies.jar" />
+      <item itemvalue="JAR Application.Java.jar" />
+      <item itemvalue="JAR Application.Java-1.1.0.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Java-1.1.0.jar" />
+        <item itemvalue="JAR Application.Java-1.0-SNAPSHOT.jar" />
+        <item itemvalue="JAR Application.Java-jar-with-dependencies.jar" />
+        <item itemvalue="JAR Application.Java.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37fab974-1a6d-40b2-8da1-5906ad69413c" name="Default Changelist" comment="" />
+      <created>1610015482493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610015482493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1610060192753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1610060192753" />
+    <state x="150" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610106877667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="150" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610106877667" />
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1610015620636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1610015620636" />
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1610032604251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1610032604251" />
+    <state x="413" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610068318100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1610068318100" />
+    <state x="476" y="33" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610017792638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="33" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1610017792638" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1610101858205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1610101858205" />
+    <state x="550" y="113" key="EnvironmentVariablesDialog" timestamp="1610015523572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="113" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610015523572" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1610141833613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610141833613" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1610141835677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610141835677" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1610141835677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610141835677" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1610141835677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610141835677" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1610141835677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610141835677" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1610101878052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610101878052" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1610101878052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610101878052" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1610101878052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610101878052" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1610101878052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610101878052" />
+    <state x="258" y="0" key="SettingsEditor" timestamp="1610099023117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610099023117" />
+    <state x="487" y="232" key="classpath-attribute-editor" timestamp="1610060465579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="232" key="classpath-attribute-editor/0.0.1366.728@0.0.1366.728" timestamp="1610060465579" />
+    <state x="65" y="24" key="new project wizard" timestamp="1610102668285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1610102668285" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Rename$.ic" NAME=" Coverage Results" MODIFIED="1610066067592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
